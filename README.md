@@ -16,3 +16,8 @@ Akka Streams 需要一个方便学习的书。就大言不惭称之为丢失的�
 - [Chapter 8: Operators](manuscript/ch08.md)
 - [Chapter 9: Future Interop](manuscript/ch09.md)
 - [Chapter 10: Dynamic Streams](manuscript/ch10.md)
+- Chpater 11: Error Handling
+- Chapter 12: Log
+- Chapter 13: Test
+- Chapter 14: Flow Control Patterns
+- Chapter 15: Integration Services
